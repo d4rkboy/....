@@ -1,5 +1,6 @@
 do
 local function run(msg, matches)
+local fbotmain = 115740444
 local bot_id = 202302126
 local x = 202302126
 local y = 191797509
